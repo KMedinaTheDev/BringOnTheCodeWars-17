@@ -1,7 +1,7 @@
 
 ![.:.Find the unique number..:.](findUniqueNum.png)
 
-## CodeWars Challenge- 13
+## CodeWars Challenge- 17
 
 
 
